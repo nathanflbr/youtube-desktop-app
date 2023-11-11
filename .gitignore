@@ -1,3 +1,4 @@
 /node_modules
 index.html
 /out
+*.DS_Store
